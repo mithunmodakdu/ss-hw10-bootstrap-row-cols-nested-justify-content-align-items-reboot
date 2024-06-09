@@ -1,0 +1,17 @@
+.box{
+    margin-bottom: 5px;
+    height: 100px;
+    background-color: red;
+}
+.bigbox{
+    height: 400px;
+    background-color: gray;
+}
+.rh{
+    height: 300px;
+}
+.round{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
